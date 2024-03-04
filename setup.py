@@ -24,7 +24,7 @@ setup(
   ],
   keywords='files speedfiles ',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/Agagarkin/The-best-quote.git'
   },
   python_requires='>=3.6'
 )

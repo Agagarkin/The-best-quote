@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='The_best_quote',
-  version='0.0.1',
+  version='0.0.2',
   author='agagarkin',
   author_email='eshkereholskill@gmail.com',
   description='This is the simplest module for quick work with files.',

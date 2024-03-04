@@ -1,1 +1,1 @@
-
+from quote import *

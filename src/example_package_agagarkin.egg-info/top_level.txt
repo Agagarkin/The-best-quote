@@ -1,3 +1,0 @@
-___init__
-example
-example_package_agagarkin

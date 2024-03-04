@@ -14,7 +14,7 @@ setup(
   description='This is the simplest module for quick work with files.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/Agagarkin/The-best-quote.git',
+  url='https://github.com/Agagarkin/The_best_quote.git',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -24,7 +24,7 @@ setup(
   ],
   keywords='files speedfiles ',
   project_urls={
-    'GitHub': 'https://github.com/Agagarkin/The-best-quote.git'
+    'GitHub': 'https://github.com/Agagarkin/The_best_quote.git'
   },
   python_requires='>=3.6'
 )
